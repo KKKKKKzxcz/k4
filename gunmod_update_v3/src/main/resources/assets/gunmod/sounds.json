@@ -1,0 +1,82 @@
+{
+ "gun_pistol": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_pistol",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_revolver": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_revolver",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_pistol_burst": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_pistol_burst",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_rifle": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_rifle",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_smg": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_smg",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_mg4": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_mg4",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_mg6": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_mg6",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_mg8": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_mg8",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_shotgun": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_shotgun",
+    "attenuation_distance": 128
+   }
+  ]
+ },
+ "gun_empty": {
+  "sounds": [
+   {
+    "name": "gunmod:gun_empty",
+    "attenuation_distance": 16
+   }
+  ]
+ }
+}
